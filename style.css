@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  font-size: 50px;
+}
+
+.test{
+  display: inline;
+  background-color: red;
+  margin-left: auto;
+  padding: 20px 20px;
+  margin: 20px 50px;
+}
